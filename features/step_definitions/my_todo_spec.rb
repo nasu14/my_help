@@ -1,3 +1,5 @@
+
+
 前提(/^todoを編集したい$/) do
   
 end
@@ -13,13 +15,3 @@ end
 
 end
 
-=begin
-前提(/^todoの編集が終わった$/) do
-
-end
-
-ならば(/^itemのバックアップを取る$/) do
-
-end
-
-=end

@@ -5,7 +5,8 @@ module Mytodo
   describe Edit do
     describe "#open" do
       it "open file my_todo.yml" do
-        open.new
+        system (a)
+
       end
     end
   end
